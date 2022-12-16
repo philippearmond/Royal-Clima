@@ -1,0 +1,16 @@
+.fa-circle-chevron-left,
+.fa-circle-chevron-right {
+    color: #000000b5;
+    cursor: pointer;
+    font-size: 52px;
+    font-weight: 700;
+    opacity: 0.5;
+    padding: 16px;
+    transition: 0.4s;
+}
+.fa-circle-chevron-right:hover,
+.fa-circle-chevron-left:hover {
+    color: #00cbd2;
+    font-size: 57px;
+    opacity: 1;
+}
